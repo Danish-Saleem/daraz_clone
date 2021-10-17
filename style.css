@@ -200,6 +200,11 @@ header {
 	width: 100%;
 }
 /* left side of hero section */
+
+.first-brand-checkbox li:hover{
+     
+	color: #f36f36;
+}
 .check-box-categories {
 	width: 25%;
 	padding: 45px;
